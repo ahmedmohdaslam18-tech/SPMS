@@ -17,14 +17,14 @@ Project Description :
 # 1. Overview
 SPLMS is a console-based C++ application that automates the day-to-day operations of a multi-floor parking facility. It handles vehicle entry, intelligent slot allocation based on vehicle type and floor, time-based billing on exit, live availability tracking, and vehicle search.
 
-2. Objectives
+# 2. Objectives
 Eliminate manual register-keeping and reduce human error in slot assignment and billing.
 
 Provide real-time visibility of free and occupied slots across floors and vehicle categories.
 
 Generate accurate and transparent bills based on parking duration and vehicle type.
 
-4. Key Features
+# 3. Key Features
 1	Multi-floor layout	3 floors; each floor holds separate blocks for bikes, cars, and trucks
 2	Vehicle categorization	Bike, Car, Truck with different slot capacities and rates
 3	Automatic slot allocation	First free slot on the lowest floor for the given vehicle type
