@@ -41,3 +41,4 @@ MVP-1
 A C++ console-based MVP for a Smart Parking Lot System. It demonstrates vehicle entry with auto-slot allocation, duplicate parking prevention, and time-based billing upon exit, utilizing object-oriented structures without external dependencies.
 
 MVP-2
+Building upon MVP 1, this version introduces the Live Availability feature. The parking lot capacity has been expanded to 6 slots (2 per vehicle type) to demonstrate this. Users can now select option 3 to view a real-time dashboard of every slot, showing whether it is currently [ FREE ] or [ OCCUPIED by <plate> ].
